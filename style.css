@@ -5,7 +5,7 @@ html {
 body { background-color:rgb(39, 39, 39);
 }
 
-table,th,td {
+table,th,td,nav,a {
   border: 1px  purple solid; 
 }
 
@@ -13,6 +13,9 @@ th,td {
   color: white;
 }
 
-{
+table,ul{
+  border: 2px  purple solid;
+;
+
   
 }
